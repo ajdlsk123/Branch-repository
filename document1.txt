@@ -10,10 +10,9 @@ def partition(l, r, nums):
     nums[ptr], nums[r] = nums[r], nums[ptr]
     return ptr
  
-#sadnjalsdnsajkdkas
-#asdsadwqwpdmsa
-#dmaspdqwomdklasdm
- 
+#hello my name is gang sin wook
+#i'm form korea
+#good
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!

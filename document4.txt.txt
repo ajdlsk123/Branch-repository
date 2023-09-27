@@ -1,6 +1,2 @@
 ajsdsjdpasjdsakpdmaspd
-<<<<<<< HEAD
-금오공과대학교
-=======
-asdkdas[odjqopwdmlasd
->>>>>>> Branch2
+금오공과대학교(asdkdas[odjqopwdmlasd)

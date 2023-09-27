@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 컴퓨터공학과
+=======
+hello SW is good
+my name is g s w
+>>>>>>> Branch2
